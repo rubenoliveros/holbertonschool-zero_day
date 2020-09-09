@@ -10,7 +10,7 @@ But I did:
 4. Initialize git and add the remote origin https://github.com/rubenoliveros/holbertonschool-zero_day.git
 5. Create a file README.md with Emacs and filled with all this
 
-Just for the sake of teaching myself Markdown, let's try to put **these letters*[^1] in bold and *these ones*[^2]in italic.
+Just for the sake of teaching myself Markdown, let's try to put **these letters**[^1] in bold and *these ones*[^2]in italic.
 
 [^1]: Used **
 [^2]: Used *
