@@ -1,0 +1,2 @@
+git commit -a -m "How to be up to date in git"
+git push origin master
